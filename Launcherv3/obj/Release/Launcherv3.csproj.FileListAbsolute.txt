@@ -1,0 +1,38 @@
+D:\Development\ElunaWotlk\c# project launcher\Launcherv3\Launcherv3\bin\Release\Launcherv3.exe
+D:\Development\ElunaWotlk\c# project launcher\Launcherv3\Launcherv3\bin\Release\Launcherv3.pdb
+D:\Development\ElunaWotlk\c# project launcher\Launcherv3\Launcherv3\obj\Release\Launcherv3.Form1.resources
+D:\Development\ElunaWotlk\c# project launcher\Launcherv3\Launcherv3\obj\Release\Launcherv3.Properties.Resources.resources
+D:\Development\ElunaWotlk\c# project launcher\Launcherv3\Launcherv3\obj\Release\Launcherv3.csproj.GenerateResource.cache
+D:\Development\ElunaWotlk\c# project launcher\Launcherv3\Launcherv3\obj\Release\Launcherv3.csproj.CoreCompileInputs.cache
+D:\Development\ElunaWotlk\c# project launcher\Launcherv3\Launcherv3\obj\Release\Launcherv3.exe
+D:\Development\ElunaWotlk\c# project launcher\Launcherv3\Launcherv3\obj\Release\Launcherv3.pdb
+D:\Development\ElunaWotlk\c# project launcher\Launcherv3\Launcherv3\obj\Release\Launcherv3.csprojAssemblyReference.cache
+D:\Development\ElunaWotlk\c# project launcher\Launcherv333\Launcherv3\bin\Release\Launcherv3.exe
+D:\Development\ElunaWotlk\c# project launcher\Launcherv333\Launcherv3\bin\Release\Launcherv3.pdb
+D:\Development\ElunaWotlk\c# project launcher\Launcherv333\Launcherv3\obj\Release\Launcherv3.csprojAssemblyReference.cache
+D:\Development\ElunaWotlk\c# project launcher\Launcherv333\Launcherv3\obj\Release\Launcherv3.Form1.resources
+D:\Development\ElunaWotlk\c# project launcher\Launcherv333\Launcherv3\obj\Release\Launcherv3.Properties.Resources.resources
+D:\Development\ElunaWotlk\c# project launcher\Launcherv333\Launcherv3\obj\Release\Launcherv3.csproj.GenerateResource.cache
+D:\Development\ElunaWotlk\c# project launcher\Launcherv333\Launcherv3\obj\Release\Launcherv3.csproj.CoreCompileInputs.cache
+D:\Development\ElunaWotlk\c# project launcher\Launcherv333\Launcherv3\obj\Release\Launcherv3.exe
+D:\Development\ElunaWotlk\c# project launcher\Launcherv333\Launcherv3\obj\Release\Launcherv3.pdb
+D:\Development\ElunaWotlk\c# project launcher\launcherv3\Launcherv3\bin\Release\Launcherv3.exe.config
+D:\Development\ElunaWotlk\c# project launcher\asd\Launcherv3\bin\Release\Launcherv3.exe.config
+D:\Development\ElunaWotlk\c# project launcher\asd\Launcherv3\bin\Release\Launcherv3.exe
+D:\Development\ElunaWotlk\c# project launcher\asd\Launcherv3\bin\Release\Launcherv3.pdb
+D:\Development\ElunaWotlk\c# project launcher\asd\Launcherv3\obj\Release\Launcherv3.Form1.resources
+D:\Development\ElunaWotlk\c# project launcher\asd\Launcherv3\obj\Release\Launcherv3.Properties.Resources.resources
+D:\Development\ElunaWotlk\c# project launcher\asd\Launcherv3\obj\Release\Launcherv3.csproj.GenerateResource.cache
+D:\Development\ElunaWotlk\c# project launcher\asd\Launcherv3\obj\Release\Launcherv3.csproj.CoreCompileInputs.cache
+D:\Development\ElunaWotlk\c# project launcher\asd\Launcherv3\obj\Release\Launcherv3.exe
+D:\Development\ElunaWotlk\c# project launcher\asd\Launcherv3\obj\Release\Launcherv3.pdb
+D:\c# projects\asd\Launcherv3\bin\Release\Launcherv3.exe.config
+D:\c# projects\asd\Launcherv3\bin\Release\Launcherv3.exe
+D:\c# projects\asd\Launcherv3\bin\Release\Launcherv3.pdb
+D:\c# projects\asd\Launcherv3\obj\Release\Launcherv3.csprojAssemblyReference.cache
+D:\c# projects\asd\Launcherv3\obj\Release\Launcherv3.Form1.resources
+D:\c# projects\asd\Launcherv3\obj\Release\Launcherv3.Properties.Resources.resources
+D:\c# projects\asd\Launcherv3\obj\Release\Launcherv3.csproj.GenerateResource.cache
+D:\c# projects\asd\Launcherv3\obj\Release\Launcherv3.csproj.CoreCompileInputs.cache
+D:\c# projects\asd\Launcherv3\obj\Release\Launcherv3.exe
+D:\c# projects\asd\Launcherv3\obj\Release\Launcherv3.pdb
