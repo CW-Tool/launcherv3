@@ -1,0 +1,171 @@
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+    padding: 0;
+    margin: 0;
+}
+table {
+    border-spacing: 9px;
+    margin: 0 auto;
+}
+fieldset,
+img {
+    border: 0;
+    /* border-radius: 5px; */
+}
+table img {
+    border-radius: 5%;
+    border-bottom: 1px solid rgba(53, 51, 50, 0.18);
+}
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var {
+    font-weight: normal;
+    font-style: normal;
+}
+strong {
+    font-weight: bold;
+}
+ol,
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+caption,
+th {
+    text-align: left;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* custom css*/
+
+body {
+    font-family:  Verdana, Geneva, sans-serif;
+    color: #f2d2a3;
+    background:#000;
+    overflow: hidden;   
+}
+
+a {
+    display: block;
+    color: #a10101;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #cf3b23;
+}
+
+.launcher-page {
+    width: 500px;
+    height: 205px;
+    background-image: url(/static/images/launcher/bg.jpg);   
+}
+
+.content-block {
+    display: block;
+    position: fixed;   
+    background-color: #fafab2;    
+    width: 500px;
+    opacity: 0.8;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=50)";
+    filter: alpha(opacity=80);
+    border-style: solid;
+    border-width: 1px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    border-color: #f2d2a3;
+    padding: 4px;
+}
+
+.top-block {
+    display: block;
+    position: fixed;   
+  
+    height: 205px;
+    width: 500px;
+}
+
+.title-block {
+    font-size: 11px;
+    width: 100%;
+    height: 15px;
+    position: relative;
+    display: block;  
+    color: #007700;
+    margin-left: 2px
+}
+
+.body-block {
+    font-size: 12px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: block;
+    margin-left: 2px
+}
+
+.banner {
+    height: 193px;
+    width: 498px;
+    display: block;
+    position: absolute;   
+    border-style: solid;
+    border-width: 1px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;  
+}
+
+.servertime {
+        position:absolute;
+        top: 3px;
+        left: 190px;
+        -moz-border-radius:3px;
+        border-radius:3px;
+        padding: 0px 5px;
+        border:solid 1px #f2d2a3;
+        background-color:#fafab2;
+        color: #a10101;
+        font-size: 12px;
+        z-index: 999;
+}
+            
